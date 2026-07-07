@@ -1,0 +1,17 @@
+.ipynb_checkpoints/
+__pycache__/
+.cache/
+*.pyc
+*.pyo
+*.log
+*.tmp
+*.h5
+*.hdf5
+*.nc
+*.npy
+*.npz
+*.zip
+*.tar
+*.tar.gz
+*.out
+*.err
